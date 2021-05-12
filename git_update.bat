@@ -4,7 +4,7 @@ REM USAGE: copy the script to every folder where folders with git repositories a
 
 REM AUTHOR: Florian Bock (florian.inifau.bock@fau.de)
 
-LICENSE: Apache License Version 2.0 (see LICENSE file)
+REM LICENSE: Apache License Version 2.0 (see LICENSE file)
 
 REM COLORS: 
 REM 0 = black 1 = navy 2 = green 3 = teal 4 = maroon 5 = purple 6 = olive E = yellow 7 = silver
